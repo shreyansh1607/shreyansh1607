@@ -10,7 +10,7 @@
 * 🎓 B.Tech CSE Student
 * 💻 Built 5+ Full-Stack Projects (MERN + Spring Boot)
 * ⚙️ Strong in Backend Engineering & System Design Fundamentals
-* 🧠 Solved 100+ DSA problems (LeetCode)
+* 🧠 Solved 300+ DSA problems (LeetCode)
 * 🚀 Currently working on AI-powered systems (SmartAI Interviewer, PixelMind)
 
 ---
